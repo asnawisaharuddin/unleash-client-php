@@ -16,12 +16,12 @@ class Feature
     /** @var array */
     private $strategies;
 
-    public function __construct(array $strategy)
+    public function __construct(array $feature)
     {
-        $this->name = $strategy['name'];
-        $this->description = $strategy['description'] ?? null;
-        $this->enabled = $strategy['enabled'] ?? false;
-        $this->strategies = $strategy['strategies'] ?? [];
+        $this->name = $feature['name'];
+        $this->description = $feature['description'] ?? null;
+        $this->enabled = $feature['enabled'] ?? false;
+        $this->strategies = $feature['strategies'] ?? [];
     }
 
     public function isEnabled(): bool
