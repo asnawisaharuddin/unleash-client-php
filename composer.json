@@ -1,0 +1,19 @@
+{
+    "name": "asnawisaharuddin/unleash-client-php",
+    "description": "Unleash SDK in PHP",
+    "authors": [
+        {
+            "name": "asnawi saharuddin",
+            "email": "asnawisahharuddin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Slurp\\Unleash\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.1",
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
