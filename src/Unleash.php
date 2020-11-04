@@ -1,16 +1,16 @@
 <?php
 
-namespace Slurp\Unleash;
+namespace AsnawiSaharuddin\Unleash;
 
 use GuzzleHttp\Exception\ClientException;
 use GuzzleHttp\Exception\ConnectException;
 use GuzzleHttp\Exception\RequestException;
-use Slurp\Unleash\Exceptions\HttpException;
-use Slurp\Unleash\Exceptions\InvalidServerResponseException;
-use Slurp\Unleash\Exceptions\RequestTimeoutException;
-use Slurp\Unleash\Exceptions\ServerUnavailableException;
-use Slurp\Unleash\Exceptions\UnknownException;
-use Slurp\Unleash\Strategies\StrategyFactory;
+use AsnawiSaharuddin\Unleash\Exceptions\HttpException;
+use AsnawiSaharuddin\Unleash\Exceptions\InvalidServerResponseException;
+use AsnawiSaharuddin\Unleash\Exceptions\RequestTimeoutException;
+use AsnawiSaharuddin\Unleash\Exceptions\ServerUnavailableException;
+use AsnawiSaharuddin\Unleash\Exceptions\UnknownException;
+use AsnawiSaharuddin\Unleash\Strategies\StrategyFactory;
 
 class Unleash
 {

@@ -4,7 +4,7 @@ $url = 'url';
 $appName = 'app-name';
 $instanceId = 'instance-id';
 
-$unleash = new \Slurp\Unleash\Unleash(
+$unleash = new \AsnawiSaharuddin\Unleash\Unleash(
     $url,
     $appName,
     $instanceId

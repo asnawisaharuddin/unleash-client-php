@@ -1,6 +1,6 @@
 <?php
 
-namespace Slurp\Unleash;
+namespace AsnawiSaharuddin\Unleash;
 
 class Feature
 {

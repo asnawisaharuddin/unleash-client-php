@@ -1,8 +1,8 @@
 <?php
 
-namespace Slurp\Unleash\Strategies;
+namespace AsnawiSaharuddin\Unleash\Strategies;
 
-use Slurp\Unleash\Context;
+use AsnawiSaharuddin\Unleash\Context;
 
 interface StrategyContract
 {

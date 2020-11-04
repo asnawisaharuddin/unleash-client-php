@@ -1,6 +1,6 @@
 <?php
 
-namespace Slurp\Unleash\Strategies;
+namespace AsnawiSaharuddin\Unleash\Strategies;
 
 class StrategyEnum
 {

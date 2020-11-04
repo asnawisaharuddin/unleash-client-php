@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f64422c-d980-4b68-8579-9d63ac52b3fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/setup.php" beforeDir="false" afterPath="$PROJECT_DIR$/example/setup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Context.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Context.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/Exception.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/Exception.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/HttpException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/HttpException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/InvalidServerResponseException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/InvalidServerResponseException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/RequestTimeoutException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/RequestTimeoutException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/ServerUnavailableException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/ServerUnavailableException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/UnknownException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/UnknownException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Feature.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Feature.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HttpClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/HttpClient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strategies/StrategyContract.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strategies/StrategyContract.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strategies/StrategyEnum.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strategies/StrategyEnum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strategies/StrategyFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strategies/StrategyFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strategies/UserWithIdStrategy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strategies/UserWithIdStrategy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unleash.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unleash.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604461416811</updated>
-      <workItem from="1604461417993" duration="11130000" />
+      <workItem from="1604461417993" duration="12071000" />
     </task>
     <servers />
   </component>
