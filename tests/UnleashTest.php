@@ -124,8 +124,8 @@ class UnleashTest extends \PHPUnit\Framework\TestCase
             new \GuzzleHttp\Psr7\Response(200, [], json_encode($this->defaultFeatures))
         );
 
-        $enabled = $this->client->isEnabled('es_report', ['userId' => 'asnawi3@terato.com']);
+        $enabled = $this->client->isEnabled('es_report', ['userId' => 'asnawi@terato.com']);
 
-        $this->assertEquals(false, $enabled);
+        $this->assertEquals(true, $enabled);
     }
 }
